@@ -1,2 +1,2 @@
-# Uz.github.io
+# Younguz.github.io
 Personal website
