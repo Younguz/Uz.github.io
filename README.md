@@ -1,6 +1,6 @@
 # Younguz.github.io
 
-## introduction
+## Introduction
 
 Personal website
 
